@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#496ee0</color>
+    <color name="colorPrimaryDark">#4857ad</color>
+    <color name="colorAccent">#496ee0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="darkColorPrimary">#1e2756</color>
+    <color name="darkColorPrimaryDark">#141831</color>
+    <color name="darkColorAccent">#496ee0</color>
+    <color name="darkBackground">#000000</color>
+    <color name="darkBackgroundBox">#303030</color>
+    <color name="red">#ae3729</color>
+
+    <color name="half_transparent_white">#c8ffffff</color>
+    <color name="widget_title_background">#a8ffffff</color>
+    <color name="darkGrey" >#202020</color>
+
+
+</resources>

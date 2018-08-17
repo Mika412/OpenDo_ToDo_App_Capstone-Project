@@ -1,0 +1,12 @@
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="146dip"
+    android:minHeight="146dip"
+    android:updatePeriodMillis="1800000"
+    android:initialLayout="@layout/widget"
+    android:previewImage="@drawable/widget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:configure="com.mykha.opendo.WidgetConfigureActivity"
+    />
+
+    <!--android:autoAdvanceViewId="@+id/words"-->

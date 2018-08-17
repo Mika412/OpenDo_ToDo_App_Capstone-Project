@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">OpenDo</string>
+    <string name="delete_list">Delete List</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup">SIGN UP</string>
+    <string name="minimum_password">Password too short!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_link_to_login">Login Here!</string>
+    <string name="btn_link_to_register">Register Here!</string>
+    <string name="title_activity_signup">Sign Up</string>
+
+
+    <string name="enter_email">Enter email address!</string>
+    <string name="enter_password">Enter password!</string>
+    <string name="password_short">Password too short, enter minimum 6 characters!</string>
+    <string name="authentication_failed">Authentication failed.</string>
+
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="login_first">You need to login first.</string>
+    <string name="no_tasks">There are no tasks in this list.</string>
+    <string name="new_list_default_text">Untitled list</string>
+    <string name="new_task_default_text">Untitled Task</string>
+    <string name="new_list_title">New List</string>
+    <string name="new_item_title">New Task</string>
+    <string name="list_name_empty_alert">List name can\'t be empty!</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_todo_details">TodoDetailsActivity</string>
+    <string name="no_lists_available">You have no lists.</string>
+    <string name="pref_theme">Theme</string>
+    <string name="not_allowed_notifications">The reminders were disabled in the settings.</string>
+    <string name="remind_me_text">Remind me</string>
+    <string name="chooseList">Choose a List:</string>
+    <string name="titleText_forgot_password">Forgot Password?</string>
+    <string name="subTitle_forgot_password_msg">We just need your account email so we could send you instructions to reset the password.</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_reset_password">RESET PASSWORD</string>
+
+    <string-array name="pref_theme_list_titles">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="pref_theme_list_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+
+    <string name="display_reminder_notifications_settings">Display reminder notification</string>
+    <string name="display_reminder_notifications_settings_subtitle">Display notification for Todos with a reminder</string>
+    <string name="deleteReminderImageDescription">Delete reminder button</string>
+    <string name="alarmclockImageDescription">Alarm Clock Image</string>
+    <string name="deleteTaskImageDescription">Delete current task button.</string>
+    <string name="openDoLogoDescription">App check logo image.</string>
+    <string name="addNewListButtonImageDescription">Add new list plus button.</string>
+    <string name="profilePictureDescription">Profile picture.</string>
+    <string name="checkTaskImageDescription">Task completion checkbox.</string>
+    <string name="addNewTaskFloatingButtonDescription">Add new task button.</string>
+    <string name="listNameHint">New list</string>
+    <string name="taskNameHint">Task name.</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="temp_x_time_ago">X Time ago</string>
+    <string name="sign_out_text">Sign Out</string>
+    <string name="selectTime">Select Time</string>
+    <string name="sentInstructionsResetPassword">We have sent you instructions to reset your password!</string>
+    <string name="failedSendReset">Failed to send reset email!</string>
+    <string name="enterRegisteredEmail">Enter your registered email.</string>
+    <string name="notificationTitle">Task Notification</string>
+    <string name="positiveDialogButton">Send</string>
+    <string name="negativeDialogButton">Cancel</string>
+</resources>

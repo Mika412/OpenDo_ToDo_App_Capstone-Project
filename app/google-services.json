@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "554683054047",
+    "firebase_url": "https://udacitycapstone-67304.firebaseio.com",
+    "project_id": "udacitycapstone-67304",
+    "storage_bucket": "udacitycapstone-67304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554683054047:android:b39739cc4cce8b5c",
+        "android_client_info": {
+          "package_name": "com.mykha.opendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554683054047-gbahbn98ag67cdtl3m3qgtgh5or9jh7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mykha.opendo",
+            "certificate_hash": "0c16e147b866b4109651a15d8bf19f361cdfa255"
+          }
+        },
+        {
+          "client_id": "554683054047-lthjqquuirua93hliiegm7s5pvsq0seo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "554683054047-lthjqquuirua93hliiegm7s5pvsq0seo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9IVayoaldJEtLPautGKwmFeVGXzsdtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554683054047-lthjqquuirua93hliiegm7s5pvsq0seo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
